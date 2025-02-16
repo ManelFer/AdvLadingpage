@@ -17,9 +17,9 @@ export function Hero() {
             <div className='container mx-auto pt-16 pb-16 md:pb-0 px-4 relative'>{/* Contêiner para o texto */}
                 <article> {/* Grid com uma coluna para telas pequenas e duas para telas médias */}
                     <div className="space-y-6 text-right"> {/* Texto branco */}
-                        <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-10"> Sarah Priscila </h1>
+                        <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-10 text-white"> Sarah Priscila </h1>
                         <h2 className="text-lg md:text-xl text-gray-300 leading-7"> Advogada especialista </h2>
-                        <p className="text-base md:text-lg text-gray-400 whitespace-pre-line mb-4"> {/* Ajuste a margem inferior aqui */}
+                        <p className="text-right rtl:text-left text-gray-500 dark:text-gray-400"> {/* Ajuste a margem inferior aqui */}
                             Especializada em litígios e resolução de conflitos,<br/>
                             minha abordagem estratégica garante que seus interesses sejam sempre priorizados.
                             <br />  
