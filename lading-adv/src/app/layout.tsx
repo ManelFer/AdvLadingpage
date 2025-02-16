@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lading Adv",
+  title: "Sarah Priscila - Advogada",
   description: "lading page for adv",
 };
 
