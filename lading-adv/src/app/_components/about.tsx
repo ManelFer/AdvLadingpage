@@ -7,19 +7,15 @@ export function About(){
                 <div className="w-1/2 pl-4"> {/* Div direita com texto */}
                     <h1 className="text-3xl font-bold mb-4">About _____</h1>
                     <p className="text-lg pt-10 ">
-                        Olá! Meu nome é Sarah Priscila e sou uma advogada com mais de 10 anos de experiência,
+                        Olá! Meu nome é Sarah tenho 23 anos, bacharel em direito e avogada pela OAB.
                         <br />
-                        especializada em litígios e resolução de conflitos. 
+                        Atualmente, estou me especializando em Direito Previdenciário e Trabalhista, sempre buscando aprimorar meus conhecimentos.
                         <br />
-                        Minha paixão pela justiça e pelos direitos humanos me levou a defender clientes em diversas situações, 
+                        Minha trajetória profissional inclui dois anos de estágio na Defensoria Pública do estado de Sergipe, onde pude atuar diretamente em casos que garantiram os direitos de quem mais precisava.
                         <br />
-                        sempre buscando soluções eficazes e personalizadas. 
+                        Após essa experiência, trabalhei como advogada em escritório, consolidando e aprofundando meus conhecimentos, e atualmente, sou advogada administrativa, ampliando ainda mais minhas habilidades.
                         <br />
-                        Acredito que a comunicação clara e a empatia são essenciais para entender as necessidades de cada cliente,
-                        <br /> 
-                        e me esforço para garantir que suas vozes sejam ouvidas. 
-                        <br />
-                        Além do meu trabalho, sou ativa em causas sociais e busco constantemente aprender e crescer, tanto pessoal quanto profissionalmente.
+                        Estou sempre em busca de novos desafios e oportunidades para crescer, com o objetivo de oferecer um trabalho de excelência aos meus clientes.
                         <br />
                     </p>
                 </div>
